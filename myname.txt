@@ -1,4 +1,6 @@
-helloWorld!
-hello!
-helloWorld!
-wang!
+helloWorld
+hello
+helloWorld
+wang
+no delete
+can delete
